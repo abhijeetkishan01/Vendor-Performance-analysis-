@@ -17,7 +17,7 @@ This project analyzes vendor and brand performance across a retail and wholesale
 **Analysis Period:** January 2026 – December 2026  
 
 ---
-
+TO DOWNLOAD all dataset used use this zip file https://drive.google.com/file/d/1fEip6h-rMCVc9nNBnTJz4z70I8lmVwEA/view?usp=drive_link
 ## 🎯 Business Problem
 
 Companies in retail and wholesale face losses due to:
