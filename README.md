@@ -243,7 +243,8 @@ SUMX(
 BBA in Logistics — BBD University Lucknow (CGPA: 8.25)  
 Skills: SQL · MySQL · Power BI · Tableau · Excel · Business Analytics  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn] (www.linkedin.com/in/abhijeet-kishan)
+
 
 ---
 
